@@ -8,6 +8,6 @@ Welcome to my Daily Coding repository. Here I will be posting my daily coding ch
 
 ## How to show the exercises 
  
- In each file you will find the exercise solved
+ In package or folder in  `src/algorithms` you can find the exercises solved.
 
 

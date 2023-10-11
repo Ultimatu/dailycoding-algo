@@ -1,21 +1,11 @@
-package algorithms.medium;
+package algorithms.algo79;
+
 
 import java.util.List;
 
-/**
- * Exo: 
- *   Given an array of integers, write a function to determine whether the array could become non-decreasing by modifying at most 1 element.
- *   Example 1: 
- *    Input: [4,2,3]
- *   Output: True
- *  Explanation: You could modify the first 4 to 1 to get a non-decreasing array.
- *  Example 2:
- *  Input: [4,2,1]
- * Output: False
- * Explanation: You can't get a non-decreasing array by modifying at most one element.
- */
 
-public class Problem79 {
+
+public class Algo79 {
 
     // The list of integers to check
     private List<Integer> list;
@@ -24,7 +14,7 @@ public class Problem79 {
      * Constructor for Problem79 class
      * @param list The list of integers to check
      */
-    public Problem79(List<Integer> list) {
+    public Algo79(List<Integer> list) {
         this.list = list;
     }
 
